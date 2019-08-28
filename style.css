@@ -1,0 +1,59 @@
+body {
+	background-color: green;
+	
+}
+
+
+p, li, td {
+	color:darkred;
+	font-weight: 100;
+}
+
+h1, h2 {color:black;
+		font-style: bold;
+}
+
+#favorite-movie-title, #favorite-music-name {
+	font-style: italic;
+	color: #0EA4E1;
+}
+
+.favorite-section {
+	border: 5px yellow solid;
+	margin: 15px;
+	padding: 10px;
+}
+
+#most-favorite-food {
+	font-size: 24px;
+	font-weight: bolder;
+	font-style: 
+}
+
+#page-title {
+	font-family: georgia;
+	font-style: bold;
+}
+
+#by-line, #page-title, .section-header {
+	text-align: center;
+}
+
+.section-header {
+	font-style: italic bold;
+	color: #BBA505;
+}
+
+.favorite-image {
+	width: 100%;
+	height: auto;
+	border-radius: 25px;
+}
+table {width: 100%}
+table, tr, th, td {
+	border:3px solid black;
+}
+
+th {
+	color: #000;
+	}
